@@ -6,4 +6,4 @@ The program can execute simple blocks of code like the one displayed below. It f
 I ended up abandoning the project because I didn't know enough about the underlying principles to make it work at the time, but I intend to revisit it when I've learned more about what that project would entail.
 
 ### Screenshot of UI
-![Screenshot](https://github.com/lucaspopp0/blocks/blob/master/Screenshot.PNG)
+![Screenshot](https://github.com/lucaspopp0/blocks/blob/master/Screenshot.png)
